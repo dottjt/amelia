@@ -1,0 +1,38 @@
+{
+  "name": "plastic",
+  "version": "1.0.0",
+  "description": "How to Kill a Chinaman is my first novel.",
+  "main": "index.js",
+  "scripts": {
+    "generate-chapters-without-annotations": "node ./util/generateChaptersWithoutAnnotation.js",
+
+    "compile-book": "npm run compile-md && npm run compile-pub && open ./ebook/book.epub",
+      "compile-md": "node ./util/generateBook.js",
+      "compile-pub": "pandoc ./ebook/book.md --strip-comments --toc --toc-depth 2 --metadata-file ./ebook/book-metadata.yaml -o ./ebook/book.epub -f markdown -t epub",
+      "compile-pdf": "pandoc ./ebook/book.md -s --strip-comments --toc --toc-depth 2 --metadata-file ./ebook/book-metadata.yaml -o ./ebook/book.pdf",
+      "compile-docx": "pandoc ./ebook/book.md -s --strip-comments --toc --toc-depth 2 --metadata-file ./ebook/book-metadata.yaml -o ./ebook/book.docx"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dottjt/plastic.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dottjt/plastic/issues"
+  },
+  "homepage": "https://github.com/dottjt/plastic#readme",
+  "dependencies": {
+    "fs-extra": "^8.1.0"
+  },
+  "devDependencies": {
+    "husky": "^4.2.5"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "npm run generate-chapters-without-annotations && git add . && npm run compile-md",
+      "pre-push": "npm run commit-chapters-without-annotations"
+    }
+  }
+}
