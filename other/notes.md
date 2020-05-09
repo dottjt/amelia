@@ -7,6 +7,7 @@ Words are kind
 howtokillachinaman.com
 
 How To Kill A Chinaman Podcast
+Writer's rant
 
 Writing About Actual People In Your Life
 - Is it okay to write about actual people in your life? 
