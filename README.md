@@ -2,13 +2,13 @@
 
 The Tales of Amelia Snow is my second novel.
 
-I have doubts my first novel will find a publisher, given the graphic nature of it. So I thought maybe I'd write something I little more considered. Although knowing me, I'll find a way to make it graphic. Also, it's just a bit of variety, so I can jump projects if I get mentally stuck on either.
-
-It presents in first-person the thoughts and narratives of Amelia Snow. She is autistic and the premise of the novel is that she knows nothing about the world, and we observe her attempt to adapt to it. There's a lot of different ways I can 
+It presents the memories of Amelia Snow told in first-person. She is autistic and the premise of the novel is that she knows nothing about the world, and we observe her attempt to adapt to it. There's a lot of different ways I can play this out, I am still in a brain storming phase. 
 
 I want maybe the first portion to explore her childhood, then for the novel to organically transition into her adulthood.
 
 At best it's a disingenuous attempt at lore, but that's always what my writing has been. A cerebal exaggeration extending male fantasy well beyond which it should be conceived. The words are not real, so let's leave them that way.
+
+The novel is a bit like Pan's Labrinth. It might also have been her favourite film. 
 
 ## Repository Overview
 
@@ -21,14 +21,40 @@ At best it's a disingenuous attempt at lore, but that's always what my writing h
 
 ## Plot Overview
 
-### Chapter 01 - child. (DONE)
+### Chapter 01 - child.
 
-- Amelia is ...I'm not sure yet, I need to brain storm
+- Amelia is introduced into the novel. She is six.
+- We learn about some of peculiarities. Who she is. How she thinks. 
+- We learn about her family. Maybe her siblings. An interaction with her mother. 
 
+### Chapter 02 - playground. 
+
+- Amelia is now eight. We see her interacting more with the world. With peers. 
+- She is confused by people. 
+- But she tries to fit in and be popular. 
+
+### Chapter 03 - teen.  
+
+- 
+- She gets in trouble for doing something inappropriate. Maybe she violently hurts someone or it is sexual in nature. 
+- 
+
+### Chapter 04 - boys. 
+
+- 
+- 
+- 
 
 ## Plot Ideas
 
-NA
+- Age 5. 
+- 
+- We explore her early experience 
+
+- Maybe she describes early sexual experiences, but not quite understanding it.
+- I want her to talk about boys.  
+- Ultimately the novel descends into . 
+- Maybe she's raped. 
 
 ## Relevant Documentation
 
